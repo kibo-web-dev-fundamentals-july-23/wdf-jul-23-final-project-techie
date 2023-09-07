@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: greenyellow;
     color: white;
     padding: 20px 0;
 }
@@ -186,5 +186,8 @@ footer p {
     text-align: center;
 }
 
+#more {display: none;}
 
+
+  
 
